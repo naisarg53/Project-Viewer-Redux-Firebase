@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\functions",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\config",
+    "\\src\\reducers"
+  ],
+  "SelectedNode": "\\src\\components\\Dashboard.js",
+  "PreviewInSolutionExplorer": false
+}

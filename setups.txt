@@ -1,0 +1,12 @@
+npx create-react-app redux_firebase
+npm install react-router-dom
+npm install @material-ui/icons
+npm install @material-ui/core
+npm install redux react-redux redux-thunk
+
+firebase cloud function:-
+
+npm install -g firebase-tools
+firebase login
+firebase init , (public folder) dist
+to deploy: firebase deploy --only functions 
